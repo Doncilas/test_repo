@@ -16,6 +16,8 @@ class Car:
 print(type(Car.hello))
 
 print("Un change")
+
+print("Inca unul")
 # bas.language = 'C++'
 # Car.language = 'Sharp'
 # bas.dupa = 'Adaug'
