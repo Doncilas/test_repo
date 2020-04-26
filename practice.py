@@ -21,6 +21,7 @@ print("Inca unul")
 
 print("Bai Sergiu")
 
+"fast forward"
 """meergeeee""
 # bas.language = 'C++'
 # Car.language = 'Sharp'
