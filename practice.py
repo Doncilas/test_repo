@@ -6,8 +6,10 @@ class Car:
 
     def hello():
         print('hello {}')
+        retur miau
 
     def add_brands(self):
+    self_adaug_list = []
         self.collection = []
         self.collection.append('3')
 
