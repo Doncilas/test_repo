@@ -12,6 +12,8 @@ class Car:
         self.collection.append('3')
 
         return self.collection
+        
+        BAAAAAAAA
 
 print(type(Car.hello))
 
